@@ -16,4 +16,4 @@ I build:
 Currently exploring AI agents and scalable GenAI applications.
 
 Connect with me:
-kumarswami.1si23ci019@gmail.com | [LinkedIn](https://linkedin.com/in/kk-96ba7b291)
+kumarsk0305@gmail.com | [LinkedIn](https://linkedin.com/in/kk-96ba7b291)

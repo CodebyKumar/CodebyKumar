@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kumarswami K 👋
 
-<!--
-**CodebyKumar/CodebyKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Siddaganga Institute of Technology, specializing in AI and ML.
 
-Here are some ideas to get you started:
+I build:
+- RAG systems for intelligent document processing
+- Conversational AI with voice and text interfaces
+- Data pipelines and analytical tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I use:** Python, FastAPI, LLMs (Gemini, OpenAI), Vector DBs, SQL, Docker
+
+**Recent wins:** 
+- Open Innovation Track, NMIT Hacks 2025 winner
+- AIR 305 in Amazon ML Challenge
+
+Currently exploring AI agents and scalable GenAI applications.
+
+Connect with me:
+kumarswami.1si23ci019@gmail.com | [LinkedIn](https://linkedin.com/in/kk-96ba7b291)

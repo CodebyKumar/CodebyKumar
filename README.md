@@ -11,7 +11,6 @@ I build:
 
 **Recent wins:** 
 - Open Innovation Track, NMIT Hacks 2025 winner
-- AIR 305 in Amazon ML Challenge
 
 Currently exploring AI agents and scalable GenAI applications.
 

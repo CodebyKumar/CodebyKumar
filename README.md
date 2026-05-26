@@ -1,18 +1,14 @@
-# Hi, I'm Kumarswami K 👋
+# Hi, I'm Kumarswami Kallimath 👋
 
-Computer Science student at Siddaganga Institute of Technology, specializing in AI and ML.
+Computer Science student at Siddaganga Institute of Technology (AI & ML), building AI systems that actually work.
 
 I build:
-- RAG systems for intelligent document processing
-- Conversational AI with voice and text interfaces
-- Data pipelines and analytical tools
+- AI agents with tool-calling, memory, and multi-step workflows
+- RAG pipelines with reranking, HyDE, and vector search
+- Multi-agent systems with LangGraph
+- Full-stack AI products from prototype to deployment
 
-**Tech I use:** Python, FastAPI, LLMs (Gemini, OpenAI), Vector DBs, SQL, Docker
+**Tech I use:** Python, FastAPI, LangChain, LangGraph, Gemini, Groq, Pinecone, PostgreSQL, MongoDB, Docker, AWS
 
-**Recent wins:** 
-- Open Innovation Track, NMIT Hacks 2025 winner
-
-Currently exploring AI agents and scalable GenAI applications.
-
-Connect with me:
-kumarsk0305@gmail.com | [LinkedIn](https://linkedin.com/in/kk-96ba7b291)
+**Connect:**
+kumarswamik03@gmail.com | [LinkedIn](https://linkedin.com/in/kumarswami-k/)

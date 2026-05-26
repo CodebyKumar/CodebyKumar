@@ -1,4 +1,4 @@
-# Hi, I'm Kumarswami Kallimath 👋
+# Hi, I'm Kumar 👋
 
 Computer Science student at Siddaganga Institute of Technology (AI & ML), building AI systems that actually work.
 

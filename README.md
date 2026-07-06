@@ -1,14 +1,39 @@
-# Hi, I'm Kumar 👋
+```
+┌─ system.status ──────────────────────────────┐
+│                                              │
+│  state    : building, mostly in public       │
+│  focus    : whatever's worth engineering     │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
-Computer Science student at Siddaganga Institute of Technology (AI & ML), building AI systems that actually work.
+I take things apart to understand them, then build them back better.
 
-I build:
-- AI agents with tool-calling, memory, and multi-step workflows
-- RAG pipelines with reranking, HyDE, and vector search
-- Multi-agent systems with LangGraph
-- Full-stack AI products from prototype to deployment
+Not locked into one domain – some weeks it's backend infra, some weeks AI,
+some weeks it's a tool I built because something annoyed me enough.
 
-**Tech I use:** Python, FastAPI, LangChain, LangGraph, Gemini, Groq, Pinecone, PostgreSQL, MongoDB, Docker, AWS
+```
+$ cat currently.log
 
-**Connect:**
-kumarswamik03@gmail.com | [LinkedIn](https://linkedin.com/in/kumarswami-k/)
+> shipping full products, not just prototypes
+> learning how systems scale, fail, and recover
+> reading source code more than docs
+> still deciding what I want to be known for
+```
+
+```
+$ stack --list
+
+python · fastAPI · postgreSQL · mongoDB · docker · aws
+depends on system requirement
+```
+
+```
+$ contact --info
+email     kskumar0305@gmail.com
+linkedin  linkedin.com/in/kumarswami-k
+```
+
+```
+> build. break. understand. rebuild.
+```
